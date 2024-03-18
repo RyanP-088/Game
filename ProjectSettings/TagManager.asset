@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Weight
+  - Interactable
+  - SmartSwitch
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Tangible Entity
+  - Intangible Entity
+  - foreground
+  - Interactable
+  - Wall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: background
+    uniqueID: 3811615255
+    locked: 0
+  - name: backer
+    uniqueID: 2745816709
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: inactive entities
+    uniqueID: 14115883
+    locked: 0
+  - name: active entities
+    uniqueID: 993759925
+    locked: 0
+  - name: foreground
+    uniqueID: 2780439137
+    locked: 0

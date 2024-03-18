@@ -1,0 +1,3 @@
+rep "Game_Project@CAP4053@cloud"
+  path "/"
+    smartbranch "/main"                                                         
